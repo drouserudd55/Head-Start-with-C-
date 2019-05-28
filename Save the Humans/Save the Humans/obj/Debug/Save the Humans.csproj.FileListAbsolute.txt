@@ -1,0 +1,32 @@
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\App.xbf
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\MainPage.xbf
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\Save the Humans.xr.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\resources.pri
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\AppxManifest.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\bin\Debug\Save the Humans.build.appxrecipe
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\App.g.i.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\App.g.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\MainPage.g.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\App.xaml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\App.xbf
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\MainPage.xaml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\MainPage.xbf
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\priconfig.xml
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\layout.resfiles
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\resources.resfiles
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\pri.resfiles
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\qualifiers.txt
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\documents\visual studio 2013\Projects\Save The Humans\Save the Humans\obj\Debug\ProjectArchitectures.txt
